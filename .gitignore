@@ -1,0 +1,18 @@
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Graphify output (large, regeneratable)
+graphify-out/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+*.swp
